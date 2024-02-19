@@ -17,6 +17,6 @@ public class StepDefinition {
     public void testWhen() {
 
         logictest.testLogic2();
-//        Assert.assertEquals(10,12);
+        Assert.assertEquals(10,12);
     }
 }
